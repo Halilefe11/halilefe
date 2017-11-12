@@ -1,0 +1,8 @@
+<html>
+<head>
+     <title>HalilEfe.com</title>
+</head>
+<body>
+<marquee scrolling='no'>HALÝL ÝBRAHÝM ÖZKAN SINIF : 11/B NUMARA : 3294</marquee>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<html>
+<head>
+     <title>HalilEfe.com</title>
+</head>
+<frameset rows="5%,15%,80%" border='0' scrolling='no'>
+<frame name="bnr" src="sayfa1.html" noresize>
+<frame name="mnu" src="sayfa3.html" noresize>
+<frame name="bnr" src="sayfa2.html" noresize>
+
+</frameset>
+</html>
